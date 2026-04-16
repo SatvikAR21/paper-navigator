@@ -1,5 +1,5 @@
 # 📄 Paper Navigator
-
+      
 A conversational RAG (Retrieval-Augmented Generation) system for querying academic research papers with citation tracking.
 
 Upload PDFs → system extracts text, chunks with section metadata → stores in ChromaDB → ask natural language questions → get answers with citations → supports follow-up questions via conversation memory.
